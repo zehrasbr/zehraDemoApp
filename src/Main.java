@@ -5,6 +5,9 @@ public class Main {
 
     Yazdir yazdir = new Yazdir();
     yazdir.yazdir();
+
+    HesapMakinesi hesapMakinesi = new HesapMakinesi();
+    hesapMakinesi.HesapMakinesi();
     }
 
 }
