@@ -7,17 +7,17 @@ public class NotHesapIfElse {
         int not = scanner.nextInt();
 
         if (not >= 90) {
-            System.out.println("AA");
+            System.out.println("Ders Notu: AA");
         } else if (not >= 80) {
-            System.out.println("BA");
+            System.out.println("Ders Notu: BA");
         } else if (not >= 70) {
-            System.out.println("BB");
+            System.out.println("Ders Notu: BB");
         } else if (not >= 60) {
-            System.out.println("CB");
+            System.out.println("Ders Notu: CB");
         } else if (not >= 50) {
-            System.out.println("CC");
+            System.out.println("Ders Notu: CC");
         } else {
-            System.out.println("FF");
+            System.out.println("Ders Notu: FF");
         }
     }
 }
