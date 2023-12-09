@@ -3,13 +3,19 @@ package fibonacciex;
 import java.util.Scanner;
 
 public class Fibonacci {
-    public void Fibonacci(){
-        int i;
-        int toplam = 0;
-        for(i=1;i<=100;i++)
+    public void FibonacciHesapla(){
+        int a=1;
+        int b=1;
+        int c;
+        System.out.println(a);
+        System.out.println(b);
+
+        for(int i=1;i<100;i++)
         {
-            toplam += i;
-            System.out.print(toplam);
+            c=a+b;
+            a=b;
+            b=c;
+            System.out.println(c);
         }
     }
 }

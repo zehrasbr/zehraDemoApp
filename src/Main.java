@@ -18,7 +18,7 @@ public class Main {
 
         //1 den 100 e kadar fibonacci serisini yazdıran bir method
         Fibonacci fibonacci = new Fibonacci();
-        fibonacci.Fibonacci();
+        fibonacci.FibonacciHesapla();
 
         //Yazdir yazdir = new Yazdir();
         //yazdir.yazdir();
