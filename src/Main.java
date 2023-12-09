@@ -1,7 +1,19 @@
+import sayiortalamasi.SayiOrtlamasi;
+import vizefinalhesap.VizeFinalHesap;
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Girilen 3 sayının ortalaması
+        //SayiOrtlamasi sayiOrtlamasi = new SayiOrtlamasi();
+        //sayiOrtlamasi.SayiOrtalamasi();
+
+        //klavyeden vize ve final notu gir dersi geçiyor mu 50 ve üstüyse dersi geçiyor,
+        // vizenin %40ını al finalin %60ını al
+        //VizeFinalHesap vizeFinalHesap = new VizeFinalHesap();
+        //vizeFinalHesap.VizeFinalHesap();
+
 
         //Yazdir yazdir = new Yazdir();
         //yazdir.yazdir();
@@ -24,8 +36,8 @@ public class Main {
         //x > 0 , y < 0 ise f(x,y) = 4x +2y +4
         //x > 0 , y =0 ise f(x,y) = 2x - y - 3
         //x < 0 , y > 0 ise f(x,y) = 3x + 4y +3
-        Fonksiyon fonksiyon = new Fonksiyon();
-        fonksiyon.Fonksiyon();
+        //Fonksiyon fonksiyon = new Fonksiyon();
+        //fonksiyon.Fonksiyon();
     }
 }
 
