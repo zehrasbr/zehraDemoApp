@@ -4,10 +4,12 @@ import java.util.Scanner;
 
 public class Fibonacci {
     public void Fibonacci(){
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Sayı gir: ");
-        int sayi = scanner.nextInt();
-
-
+        int i;
+        int toplam = 0;
+        for(i=1;i<=100;i++)
+        {
+            toplam += i;
+            System.out.print(toplam);
+        }
     }
 }

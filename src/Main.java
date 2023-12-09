@@ -1,3 +1,4 @@
+import fibonacciex.Fibonacci;
 import sayiortalamasi.SayiOrtlamasi;
 import vizefinalhesap.VizeFinalHesap;
 
@@ -5,6 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         //Girilen 3 sayının ortalaması
         //SayiOrtlamasi sayiOrtlamasi = new SayiOrtlamasi();
         //sayiOrtlamasi.SayiOrtalamasi();
@@ -14,6 +16,9 @@ public class Main {
         //VizeFinalHesap vizeFinalHesap = new VizeFinalHesap();
         //vizeFinalHesap.VizeFinalHesap();
 
+        //1 den 100 e kadar fibonacci serisini yazdıran bir method
+        Fibonacci fibonacci = new Fibonacci();
+        fibonacci.Fibonacci();
 
         //Yazdir yazdir = new Yazdir();
         //yazdir.yazdir();
