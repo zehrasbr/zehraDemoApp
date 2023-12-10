@@ -12,17 +12,17 @@ public class Fonksiyon {
         if(x>0 && y<0)
         {
             sonuc = (4*x)+(2*y)+4;
-            System.out.print("f(x,y)= " + sonuc);
+            System.out.print("f(x,y)= "+"(4 * "+x+")"+" + "+"(2 * "+y+")"+" + 4 = " + sonuc);
         }
         else if (x>0 && y==0)
         {
             sonuc = (2*x)-y-3;
-            System.out.print("f(x,y)= "+sonuc);
+            System.out.print("f(x,y)= " + "(2 * "+x+")"+" - "+ y +" - 3 = "+sonuc);
         }
         else if (x<0 && y>0)
         {
             sonuc = (3*x)+(4*y)+3;
-            System.out.print("f(x,y)= "+sonuc);
+            System.out.print("f(x,y)= "+"(3 * "+x+")"+" + "+"(4 * "+y+")"+" + 3 = "+sonuc);
         }
     }
 }
