@@ -4,10 +4,10 @@ public class Fonksiyon {
     public void Fonksiyon(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("x gir: ");
-        int x = scanner.nextInt();
+        double x = scanner.nextDouble();
         System.out.print("y gir: ");
-        int y = scanner.nextInt();
-        int sonuc=0;
+        double y = scanner.nextDouble();
+        double sonuc=0;
 
         if(x>0 && y<0)
         {
