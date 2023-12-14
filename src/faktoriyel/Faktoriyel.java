@@ -1,8 +1,9 @@
+package faktoriyel;
+
 import java.util.Scanner;
 
-public class Yazdir {
-    public void yazdir(){
-
+public class Faktoriyel {
+    public void Faktoriyel(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("sayı gir: ");
         int sayi = scanner.nextInt();

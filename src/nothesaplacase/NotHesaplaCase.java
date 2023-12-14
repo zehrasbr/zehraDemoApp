@@ -1,7 +1,9 @@
+package nothesaplacase;
+
 import java.util.Scanner;
 
-public class NotHesaplama {
-    public void NotHesaplama(){
+public class NotHesaplaCase {
+    public void NotHesaplaCase(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Not gir: ");
         int not = scanner.nextInt();
@@ -11,7 +13,7 @@ public class NotHesaplama {
             case 10:
                 System.out.println( "Ders Notu: AA");
                 break;
-                case 9:
+            case 9:
                 System.out.println( "Ders Notu: AA");
                 break;
             case 8:

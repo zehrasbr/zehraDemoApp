@@ -1,4 +1,7 @@
+import carpimtablosu.CarpimTablosu;
+import faktoriyel.Faktoriyel;
 import fibonacciex.Fibonacci;
+import nothesaplacase.NotHesaplaCase;
 import sayiortalamasi.SayiOrtlamasi;
 import terstenyazim.TerstenYazim;
 import vizefinalhesap.VizeFinalHesap;
@@ -21,20 +24,21 @@ public class Main {
         //fibonacci.FibonacciHesapla();
 
         //karakter dizisini tersten yazdıran bir program nasıl yazılır?
-        TerstenYazim terstenYazim = new TerstenYazim();
-        terstenYazim.TerstenYazim();
+        //TerstenYazim terstenYazim = new TerstenYazim();
+        //terstenYazim.TerstenYazim();
 
-        //Yazdir yazdir = new Yazdir();
-        //yazdir.yazdir();
+        //faktöriyel hesaplaması
+        //Faktoriyel faktoriyel = new Faktoriyel();
+        //faktoriyel.Faktoriyel();
 
         //Çarpım tablosunu oluşturan bir sınıf yazın.
-        //HesapMakinesi hesapMakinesi = new HesapMakinesi();
-        //hesapMakinesi.HesapMakinesi();
+        //CarpimTablosu carpimTablosu = new CarpimTablosu();
+        //carpimTablosu.CarpimTablosu();
 
         //100 lük sayı sisteminde girilen notları sayı sistemine çeviren kodu yazınız. Bu ödevde switch case kullanınız.
         //90 ve üzeri AA , 80-90 arası BA , 70-79 arası BB, 60-69 arası CB , 50-59 arası CC , 50 den kücük FF
-        //NotHesaplama notHesaplama = new NotHesaplama();
-        //notHesaplama.NotHesaplama();
+        //NotHesaplaCase notHesaplaCase = new NotHesaplaCase();
+        //notHesaplaCase.NotHesaplaCase();
 
         //100 lük sayı sisteminde girilen notları sayı sistemine çeviren kodu yazınız. Bu ödevde if else  kullanınız.
         //90 ve üzeri AA , 80-90 arası BA , 70-79 arası BB, 60-69 arası CB , 50-59 arası CC , 50 den kücük FF

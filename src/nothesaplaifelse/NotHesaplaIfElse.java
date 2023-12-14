@@ -1,7 +1,9 @@
+package nothesaplaifelse;
+
 import java.util.Scanner;
 
-public class NotHesapIfElse {
-    public void NotHesapIfElse() {
+public class NotHesaplaIfElse {
+    public void NotHesaplaIfElse(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Not gir: ");
         int not = scanner.nextInt();

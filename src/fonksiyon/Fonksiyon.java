@@ -1,3 +1,5 @@
+package fonksiyon;
+
 import java.util.Scanner;
 
 public class Fonksiyon {
