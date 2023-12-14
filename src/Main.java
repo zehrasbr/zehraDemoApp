@@ -2,6 +2,7 @@ import carpimtablosu.CarpimTablosu;
 import faktoriyel.Faktoriyel;
 import fibonacciex.Fibonacci;
 import nothesaplacase.NotHesaplaCase;
+import nothesaplaifelse.NotHesaplaIfElse;
 import sayiortalamasi.SayiOrtlamasi;
 import terstenyazim.TerstenYazim;
 import vizefinalhesap.VizeFinalHesap;
@@ -42,8 +43,8 @@ public class Main {
 
         //100 lük sayı sisteminde girilen notları sayı sistemine çeviren kodu yazınız. Bu ödevde if else  kullanınız.
         //90 ve üzeri AA , 80-90 arası BA , 70-79 arası BB, 60-69 arası CB , 50-59 arası CC , 50 den kücük FF
-        //NotHesapIfElse notHesapIfElse = new NotHesapIfElse();
-        //notHesapIfElse.NotHesapIfElse();
+        //NotHesaplaIfElse notHesaplaIfElse = new NotHesaplaIfElse();
+        //notHesaplaIfElse.NotHesaplaIfElse();
 
         //klavyeden girilen x ve y değerleri için aşağıdaki 3 farklı foksiyona göre f(x,y)  değerleri için hesaplayan kodu yazn.
         //x > 0 , y < 0 ise f(x,y) = 4x +2y +4
