@@ -1,5 +1,6 @@
 import fibonacciex.Fibonacci;
 import sayiortalamasi.SayiOrtlamasi;
+import terstenyazim.TerstenYazim;
 import vizefinalhesap.VizeFinalHesap;
 import java.util.Scanner;
 
@@ -18,6 +19,10 @@ public class Main {
         //1 den 100 e kadar fibonacci serisini yazdıran bir method
         //Fibonacci fibonacci = new Fibonacci();
         //fibonacci.FibonacciHesapla();
+
+        //karakter dizisini tersten yazdıran bir program nasıl yazılır?
+        TerstenYazim terstenYazim = new TerstenYazim();
+        terstenYazim.TerstenYazim();
 
         //Yazdir yazdir = new Yazdir();
         //yazdir.yazdir();
@@ -40,8 +45,8 @@ public class Main {
         //x > 0 , y < 0 ise f(x,y) = 4x +2y +4
         //x > 0 , y =0 ise f(x,y) = 2x - y - 3
         //x < 0 , y > 0 ise f(x,y) = 3x + 4y +3
-        Fonksiyon fonksiyon = new Fonksiyon();
-        fonksiyon.Fonksiyon();
+        //Fonksiyon fonksiyon = new Fonksiyon();
+        //fonksiyon.Fonksiyon();
     }
 }
 
