@@ -16,7 +16,7 @@ public class Main {
 
         //klavyeden vize ve final notu gir dersi geçiyor mu 50 ve üstüyse dersi geçiyor,
         // vizenin %40ını al finalin %60ını al
-        //VizeFinalHesap vizeFinalHesap = new VizeFinalHesap();
+        //VizeFinalHesap vizeFinalHesap = new VizeFinalHesap();ç
         //vizeFinalHesap.VizeFinalHesap();
 
         //1 den 100 e kadar fibonacci serisini yazdıran bir method

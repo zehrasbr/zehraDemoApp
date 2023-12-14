@@ -5,12 +5,19 @@ import java.util.Scanner;
 public class NotHesaplaCase {
     public void NotHesaplaCase(){
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Not gir: ");
-        int not = scanner.nextInt();
+        System.out.print("Vize gir: ");
+        int vizeNot = scanner.nextInt();
+        System.out.print("Final gir: ");
+        int finalNot = scanner.nextInt();
 
-        switch (not/10)
+        int sonuc = 0;
+        sonuc += (vizeNot * 0.4) + (finalNot * 0.6);
+        System.out.println("Ders sonucu: " + sonuc);
+
+        switch (sonuc / 10)
         {
             case 10:
+
                 System.out.println( "Ders Notu: AA");
                 break;
             case 9:
