@@ -36,6 +36,7 @@ public class Main {
         //CarpimTablosu carpimTablosu = new CarpimTablosu();
         //carpimTablosu.CarpimTablosu();
 
+
         //100 lük sayı sisteminde girilen notları sayı sistemine çeviren kodu yazınız. Bu ödevde switch case kullanınız.
         //90 ve üzeri AA , 80-90 arası BA , 70-79 arası BB, 60-69 arası CB , 50-59 arası CC , 50 den kücük FF
         //NotHesaplaCase notHesaplaCase = new NotHesaplaCase();
