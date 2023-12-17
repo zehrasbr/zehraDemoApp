@@ -13,6 +13,7 @@ public class NotHesaplaIfElse {
         System.out.print("Final gir: ");
         int finalNot = scanner.nextInt();
 
+
         int sonuc = 0;
         sonuc += (vizeNot * 0.4) + (finalNot * 0.6);
         System.out.println("Ders sonucu: " + sonuc);
