@@ -3,7 +3,7 @@ package nothesaplaifelse;
 import java.util.Scanner;
 
 public class NotHesaplaIfElse {
-    public void NotHesaplaIfElse(){
+    public void NotHesaplaIfElse() {
         //Scanner scanner = new Scanner(System.in);
         //System.out.print("Not gir: ");
         //int sonuc = scanner.nextInt();
